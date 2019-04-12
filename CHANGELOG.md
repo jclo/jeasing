@@ -5,4 +5,4 @@
 
   * Initial build,
   * Initiated a build on Travic CI,
-  * ...,
+  * Release.
