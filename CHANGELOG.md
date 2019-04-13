@@ -3,7 +3,7 @@
 ### 0.0.1 (April 13, 2019)
 
   * Fixed a wrong url link in package.json,
-  * ...,
+  * Release.
 
 
 ### 0.0.0 (April 12, 2019)
