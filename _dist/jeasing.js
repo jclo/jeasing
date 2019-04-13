@@ -1,5 +1,5 @@
 /*! ****************************************************************************
- * JEasing v0.0.0
+ * JEasing v0.0.1
  *
  * A simple library that implements Robert Penner's easing equations.
  * (you can download it from npm or github repositories)
@@ -306,7 +306,7 @@
   };
 
   // Current version of the library:
-  JEasing.VERSION = '0.0.0';
+  JEasing.VERSION = '0.0.1';
   /* - */
 
 

@@ -1,6 +1,6 @@
 {
   "name": "jeasing",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A simple library that implements Robert Penner's easing equations",
   "main": "index.js",
   "bin": {},
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jeasing/libname.git"
+    "url": "https://github.com/jclo/jeasing.git"
   },
   "keywords": [],
   "author": {
@@ -26,9 +26,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/author/jeasing/issues"
+    "url": "https://github.com/jclo/jeasing/issues"
   },
-  "homepage": "https://github.com/jeasing/libname",
+  "homepage": "https://github.com/jclo/jeasing",
   "dependencies": {},
   "devDependencies": {
     "chai": "4.2.0",
