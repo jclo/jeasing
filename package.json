@@ -1,6 +1,6 @@
 {
   "name": "jeasing",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple library that implements Robert Penner's easing equations",
   "main": "index.js",
   "bin": {},
@@ -37,7 +37,7 @@
     "del": "4.1.0",
     "eslint": "5.16.0",
     "eslint-config-airbnb-base": "13.1.0",
-    "eslint-plugin-import": "2.16.0",
+    "eslint-plugin-import": "2.17.1",
     "gulp": "4.0.0",
     "gulp-concat": "2.6.1",
     "gulp-footer": "2.0.2",
