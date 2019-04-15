@@ -3,7 +3,7 @@
 ### 0.0.2 (April 15, 2019)
 
   * Added a hack to attach the lib to the browser root when used with Browserify,
-  * ...,
+  * Release.
 
 
 ### 0.0.1 (April 13, 2019)
