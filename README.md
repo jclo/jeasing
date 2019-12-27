@@ -10,6 +10,10 @@
 
 [![NPM install][npm-install-image]][npm-install-url]
 
+| `JEasing` is no longer maintained. Please, use [@mobilabs/easing](https://www.npmjs.com/package/@mobilabs/easing) now. |
+| --- |
+
+
 JEasing is a simple library that implements Robert Penner's easing equations. These equations are encapsulated in the module pattern. JEasing is written in pure Javascript. It has no dependency.
 
 JEasing runs both in the browser an on Node.js.
